@@ -7,3 +7,7 @@ Desarrollé este videojuego previo a tener conocimiento de GitHub, de a poco ir�
 
 Todas las imágenes fueron realizadas por mi propia persona en formato digital. Algunas imágenes he utilizado de referencia fotografías que han aparecido en los medios.
 La música del videojuego no me pertenece, es Moisesville de Max Zalkind y Los Gauchos Judíos de Alfredo Zitarrosa.
+
+Mis conocimientos en C# fueron adquiridos de forma autodidacta para este videojuego, y este fue mi primer proyecto finalizado; de acá sólo mejorar :)!
+
+Actualización 05/06/2022 --> Les dejo al alcance una parte del código del juego, todavía me falta subir la mitad o más. 
